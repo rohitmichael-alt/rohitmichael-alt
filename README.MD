@@ -1,25 +1,25 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:060b14,40:0a2860,100:060b14&height=220&section=header&text=Rohit%20Michael%20Raj&fontSize=54&fontColor=e8eaf6&animation=twinkling&fontAlignY=55&desc=ML%20%C3%97%20Aerospace%20%C3%97%20Builder&descAlignY=75&descSize=19&descColor=58a6ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060b14,50:0b1d3a,100:060b14&height=240&section=header&text=Rohit%20Michael%20Raj&fontSize=52&fontColor=e8eaf6&animation=twinkling&desc=ML%20%C3%97%20Aerospace%20%C3%97%20Builder&descColor=4d9de0&descSize=18&fontAlignY=40&descAlignY=58&fontFamily=Orbitron"/>
 
 <br/>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="310"/>
 
-<p>
-&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=900&color=58A6FF&vCenter=true&width=480&lines=Building+at+ML+%C3%97+Aerospace+intersection+%F0%9F%9B%B0%EF%B8%8F;LSTM+anomaly+detection+for+spacecraft+telemetry;Earth%E2%80%93Moon+trajectory+ML+%7C+Springer+target;Hackathon+circuit+%E2%80%A2+DevsHouse+%E2%80%A2+Red+Bull+Basement;2nd+Year+CSE+%40+VIT+Chennai+%7C+24BCE5108" alt="Typing SVG"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=13&duration=3000&pause=900&color=4D9DE0&vCenter=true&width=500&lines=Building+at+ML+%C3%97+Aerospace+intersection+%F0%9F%9B%B0%EF%B8%8F;LSTM+anomaly+detection+for+spacecraft+telemetry;Earth%E2%80%93Moon+trajectory+ML+%7C+Springer+target;DevsHouse+%E2%80%A2+Red+Bull+Basement+%E2%80%A2+Fintech;2nd+Year+CSE+%40+VIT+Chennai+%7C+24BCE5108" alt="Typing SVG"/>
 
-<br/>
+<br/><br/>
 
-&nbsp;&nbsp;🛰️ &nbsp;**OrbitGuard** — LSTM anomaly detection for spacecraft telemetry  
-&nbsp;&nbsp;🌕 &nbsp;**Trajectory ML** — LSTM/Transformer for Earth–Moon transfer classification  
-&nbsp;&nbsp;🤖 &nbsp;**Multi-agent AI** — Claude + Codex + Gemini orchestration system  
-&nbsp;&nbsp;📍 &nbsp;VIT Chennai &nbsp;·&nbsp; CSE `'27` &nbsp;·&nbsp; `24BCE5108`
+🛰️ &nbsp;**OrbitGuard** — LSTM anomaly detection for spacecraft telemetry  
+🌕 &nbsp;**Trajectory ML** — LSTM/Transformer for Earth–Moon transfer classification  
+🤖 &nbsp;**Multi-agent AI** — Claude + Codex + Gemini orchestration system  
+📍 &nbsp;VIT Chennai &nbsp;·&nbsp; CSE `'27` &nbsp;·&nbsp; `24BCE5108`
 
 <br/><br/><br/><br/>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:060b14,100:0b1d3a&height=2&section=header"/>
 
-### 🛠 &nbsp;stack
+<br/>
+
+### &nbsp;stack
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 ---
 
-### 📊 &nbsp;stats
+### &nbsp;stats
 
 <br/>
 
@@ -57,7 +57,11 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rohitmichael-alt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&stroke=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=rohitmichael-alt&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4d9de0&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=8b949e&dates=8b949e&stroke=0d1117"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmichael-alt&theme=github-compact&bg_color=0d1117&color=4d9de0&line=4d9de0&point=e8eaf6&area=true&hide_border=true&area_color=0b1d3a" width="95%"/>
 
 </div>
 
@@ -65,7 +69,7 @@
 
 ---
 
-### 🛰️ &nbsp;selected work
+### &nbsp;selected work
 
 <br/>
 
@@ -73,9 +77,9 @@
 
 | project | what | stack |
 |:---:|---|---|
-| **OrbitGuard** | LSTM-based anomaly detection for spacecraft telemetry — flags degradation before failure | `Python` `PyTorch` `GMAT` |
-| **Trajectory ML** | Early-exit LSTM/Transformer classifier for Earth–Moon transfer feasibility — targeting Springer | `PyTorch` `GMAT R2025a` |
-| **Visceral / ClimateScope** | AR climate visualization — DevsHouse '26 hackathon | `React` `Three.js` |
+| **OrbitGuard** | LSTM anomaly detection for spacecraft telemetry — flags degradation before failure | `Python` `PyTorch` `GMAT` |
+| **Trajectory ML** | Early-exit LSTM/Transformer for Earth–Moon transfer feasibility — Springer target | `PyTorch` `GMAT R2025a` |
+| **Visceral / ClimateScope** | AR climate visualization — DevsHouse '26 | `React` `Three.js` |
 | **Munshi AI** | WhatsApp-native financial OS for India using AA/OCEN/GSTN | `Python` `WhatsApp API` |
 | **Sendr** | AI trick recognition for action sports — Red Bull Basement '25 | `CV` `Python` |
 
@@ -85,7 +89,7 @@
 
 ---
 
-### 📡 &nbsp;reach
+### &nbsp;reach
 
 <br/>
 
@@ -95,10 +99,10 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-linkedin)
 &nbsp;
-![Profile views](https://komarev.com/ghpvc/?username=rohitmichael-alt&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=rohitmichael-alt&color=4d9de0&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2860,100:060b14&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:060b14&height=100&section=footer"/>
