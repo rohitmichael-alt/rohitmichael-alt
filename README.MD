@@ -75,8 +75,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitmichael-alt/rohitmichael-alt/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitmichael-alt/rohitmichael-alt/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohitmichael-alt/rohitmichael-alt/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/rohitmichael-alt/rohitmichael-alt@output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/rohitmichael-alt/rohitmichael-alt@output/github-contribution-grid-snake.svg"/>
+    <img alt="snake eating my contributions" src="https://cdn.jsdelivr.net/gh/rohitmichael-alt/rohitmichael-alt@output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
