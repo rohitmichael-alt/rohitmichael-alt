@@ -63,8 +63,6 @@
 
   <br/><br/>
 
-  <img width=420 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitmichael-alt&theme=tokyonight" alt="rohitmichael-alt" />
-  &nbsp;
   <img width=340 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitmichael-alt&theme=tokyonight" alt="rohitmichael-alt" />
 
   <br/><br/>
