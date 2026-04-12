@@ -28,7 +28,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif?color_snake=purple&color_dots=#1e1e1e,#2b2b2b,#3c3c3c,#4e4e4e,#ffffff
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Show build status
         run: git status
