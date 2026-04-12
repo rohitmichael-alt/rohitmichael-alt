@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp">
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/93/df/05/93df0577b6f26278fd64fe0af6481eac.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohitmichael-alt&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmichael-alt" />
