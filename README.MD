@@ -22,23 +22,23 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rohit-michael-06a911326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-michael" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,c,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,nodejs,flutter,go" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=flask,mysql,git,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,vscode,obsidian" />
 </p>
 
 <div align="center">
-  <img width=390 height=170 src="https://github-readme-streak-stats.herokuapp.com/?user=rohitmichael-alt&theme=dark" alt="rohitmichael-alt" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rohitmichael-alt&show_icons=true&rank_icon=github&locale=en&theme=dark" alt="rohitmichael-alt" />
+  <img width=390 height=170 src="https://streak-stats.demolab.com?user=rohitmichael-alt&theme=dark&hide_border=true" alt="rohitmichael-alt" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rohitmichael-alt&show_icons=true&rank_icon=github&locale=en&theme=dark&hide_border=true&count_private=true" alt="rohitmichael-alt" />
 
   <br/><br/>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmichael-alt&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohitmichael-alt" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmichael-alt&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="rohitmichael-alt" /></p>
 </div>
 
 <br/><br/>
