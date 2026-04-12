@@ -105,4 +105,16 @@
 
 <br/>
 
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitmichael-alt/rohitmichael-alt/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitmichael-alt/rohitmichael-alt/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rohitmichael-alt/rohitmichael-alt/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d3a,100:060b14&height=100&section=footer"/>
