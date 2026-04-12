@@ -8,7 +8,9 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/93/df/05/93df0577b6f26278fd64fe0af6481eac.gif">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top" width="55%">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rohitmichael-alt&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmichael-alt" />
@@ -27,6 +29,13 @@
 - 💬 &nbsp; Ask me about **ML infra, LLM APIs, aerospace ML**
 
 - 📫 &nbsp; **rohitmichael13@gmail.com**
+
+</td>
+<td valign="middle" align="center" width="45%">
+  <img src="https://i.pinimg.com/originals/93/df/05/93df0577b6f26278fd64fe0af6481eac.gif" width="360" alt="anime gif"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -50,15 +59,17 @@
 
 <div align="center">
 
-  <img width=420 src="https://streak-stats.demolab.com?user=rohitmichael-alt&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="rohitmichael-alt" />
+  <img width=420 src="https://streak-stats.demolab.com?user=rohitmichael-alt&theme=tokyonight&hide_border=true&border_radius=10" alt="rohitmichael-alt" />
 
   <br/><br/>
 
-  <img width=420 src="https://github-readme-stats.vercel.app/api?username=rohitmichael-alt&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&rank_icon=github" alt="rohitmichael-alt" />
+  <img width=420 src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rohitmichael-alt&theme=tokyonight" alt="rohitmichael-alt" />
+  &nbsp;
+  <img width=340 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohitmichael-alt&theme=tokyonight" alt="rohitmichael-alt" />
 
   <br/><br/>
 
-  <img width=340 src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmichael-alt&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="rohitmichael-alt" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmichael-alt&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=cdd6f4&area=true&hide_border=true" width="95%" alt="activity graph"/>
 
 </div>
 
